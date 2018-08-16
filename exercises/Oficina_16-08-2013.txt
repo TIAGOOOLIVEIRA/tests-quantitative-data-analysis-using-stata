@@ -1,0 +1,46 @@
+diminui os erros ao quadrado
+minimos quadrados ordinários - para regressão linear
+
+minimiza a somatória dos erros ao quadrado
+
+menor somatória dos erros quadrados
+
+E[Y,X] = b0 + BX
+
+Minimiza os erros
+	SQR = Sum(Y1 - Ybarra1)^2
+
+
+
+reg salary ceoten
+
+ANOVA
+      Source |       SS       df       MS              Number of obs =     177
+-------------+------------------------------           F(  1,   175) =    3.65
+       Model |  1241694.06     1  1241694.06           Prob > F      =  0.0577
+    Residual |  59524270.7   175   340138.69           R-squared     =  0.0204
+-------------+------------------------------           Adj R-squared =  0.0148
+       Total |  60765964.7   176  345261.163           Root MSE      =  583.21
+
+
+SQR -> model x SS
+SQR -> Residual X SS
+SQT -> Total
+
+Model/Residual = R-squared
+
+
+
+------------------------------------------------------------------------------
+      salary |      Coef.   Std. Err.      t    P>|t|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+      ceoten |   11.74613    6.14774     1.91   0.058     -.387127    23.87939
+       _cons |   772.4263   65.67567    11.76   0.000     642.8079    902.0446
+------------------------------------------------------------------------------
+
+
+_cons - > Na Origem; QUando x = 0;
+CEO que iniciou agora na carreira, inicia com 772.4263
+Salário = 772.4263 + 11.74613
+
+Não rejeita H0 -> Beta é zero; X não influencia em Y

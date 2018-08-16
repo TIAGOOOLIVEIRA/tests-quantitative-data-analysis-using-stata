@@ -1,0 +1,17 @@
+
+
+http://www.stata.com/support/faqs/statistics/compare-levels-of-categorical-variable/
+
+http://www.stata.com/support/faqs/statistics/compare-levels-of-categorical-variable/#1anova
+
+http://www.stata.com/support/faqs/statistics/compare-levels-of-categorical-variable/#1reg
+
+http://www.ats.ucla.edu/stat/stata/output/reg_output.htm
+
+https://www3.nd.edu/~rwilliam/stats1/CI-Stata.pdf
+
+
+two-tailed p-value P>|t|
+http://www.ats.ucla.edu/stat/stata/output/ttest_output.htm
+
+http://www.ats.ucla.edu/stat/stata/faq/svyttest.htm
